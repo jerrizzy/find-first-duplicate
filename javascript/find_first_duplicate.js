@@ -1,9 +1,6 @@
 function findFirstDuplicate(arr) {
   // type your code here
-  let result = -1
   
-  for (const element of arr) {
-    
 }
 
 if (require.main === module) {
